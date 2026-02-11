@@ -1,0 +1,105 @@
+commit eb1c95bdfabd74411dcfea27eb02676c8ff46dfe
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 20:22:56 2026 -0800
+
+    Commit my README
+
+commit 03941e17526c104ac8005e4c043d41234d4e42a6
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 20:20:14 2026 -0800
+
+    Commit my Repo Location
+
+commit ee7908fc7057ee7624bc93004c4a24881e6e4899
+Merge: d9d0b93 6674101
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 19:54:48 2026 -0800
+
+    On main: !!GitHub_Desktop<main>
+
+commit 6674101abd53bf5fa72284960cc8b290ef9bdd1b
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 19:54:48 2026 -0800
+
+    index on main: d9d0b93 Merge pull request #1 from kvasqu62/feature-about-me
+
+commit d9d0b93c52eda8dcb3c0f38417f08983cdbb1fac
+Merge: 94f5f11 38b094d
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 19:37:12 2026 -0800
+
+    Merge pull request #1 from kvasqu62/feature-about-me
+    
+    Feature about me
+
+commit 38b094d2584aca4c3e4e1da5982123c5d4ed9064
+Merge: c0ef5b0 94f5f11
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 19:36:18 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit c0ef5b05c9c43c4efc14d09e6d75f643c147f2a1
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 19:18:24 2026 -0800
+
+    Update Feature About Me
+    
+    This is an About Me page with my groupmate's information and my information.
+
+commit 25a476a2296b45d27a48718473e866689911e447
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 18:55:54 2026 -0800
+
+    Update index.html
+
+commit c7d9a516b51706ea6d3db6d5e088c64cdd676eed
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 16:53:29 2026 -0800
+
+    Update index.html
+
+commit 94f5f115c72a0de893cec061259046c9164fc692
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Tue Feb 10 15:50:03 2026 -0800
+
+    Update index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
